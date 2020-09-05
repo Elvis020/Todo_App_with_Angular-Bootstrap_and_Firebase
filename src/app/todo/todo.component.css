@@ -1,0 +1,8 @@
+.backy
+{
+  background-color: #eee;
+  width: 40px;
+  align-items: center;
+  border-radius: 0 5px 5px 0;
+  justify-content: center;
+}
